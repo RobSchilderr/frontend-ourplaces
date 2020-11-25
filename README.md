@@ -18,6 +18,7 @@ This is my second React app created for practicing purposes. It taught me how to
 ## Credits
 
 *Academind*
+
 *Rob Schilder - student*
 
 
