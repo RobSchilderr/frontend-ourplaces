@@ -1,6 +1,6 @@
 ## Our Places
 
-This is a showcase project which lets users share places among each other. It is provided with authentication to the user and the user is able to store places, upload pictures and locations. 
+This is a showcase project which lets users share places among each other. It is provided with authentication to the user and the user is able to store places, upload pictures and locations. Right now the database is offline, it starts whenever you upload an image.
 
 
 ## Link to the website
